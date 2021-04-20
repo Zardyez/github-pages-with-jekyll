@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "My first Presentation"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hi there, this is my first presentation, im so glad your here! well there is nothing to do.... YET I am going to add more and such, anyways, bye for now!
